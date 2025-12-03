@@ -1,3 +1,4 @@
+- [dirkarnez/schemdraw-pyodide-playground](https://github.com/dirkarnez/schemdraw-pyodide-playground/tree/main)
 ### Working spice
 ```
 AC signal
