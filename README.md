@@ -1,5 +1,6 @@
 - ~[dirkarnez/schemdraw-pyodide-playground](https://github.com/dirkarnez/schemdraw-pyodide-playground/tree/main)~
     - use [dirkarnez/kicad-rlc](https://github.com/dirkarnez/kicad-rlc) and [kicanvas](https://kicanvas.org/)
+    - or tscircuit
 ### Working spice
 ```
 AC signal
